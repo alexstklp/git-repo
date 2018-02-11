@@ -1,2 +1,3 @@
 echo "Hellow World"
 uname -a
+cat /proc/mdstat
